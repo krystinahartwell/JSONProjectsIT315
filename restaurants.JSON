@@ -1,5 +1,5 @@
 {
-  "HikingTrails":
+  "Restaurants":
   [
     {"RestaurantName":"The Auld Shebeen", "RestaurantDesc":"Irish pub & local student hangout featuring multiple rooms, live music & a basement dance floor.", "RestaurantCuisine":"Irish Pub", "RestaurantType":"Dine-in", "RestaurantOpen":"11:00", "RestaurantClose":"00:00", "RestaurantImgName":"https://raw.githubusercontent.com/krystinahartwell/JSONProjectsIT315/master/the-auld-shebeen.jpeg", "RestaurantSiteAddress":"https://theauldshebeenva.com/"},
     {"RestaurantName":"Sushi Prince", "RestaurantDesc":"Classic & creative sushi plus cooked Japanese fare served amid hanging lanterns & colorful parasols.", "RestaurantCuisine":"Japanese", "RestaurantType":"Dine-in", "RestaurantOpen":"17:00", "RestaurantClose":"22:00", "RestaurantImgName":"https://raw.githubusercontent.com/krystinahartwell/JSONProjectsIT315/master/sushi_prince.png", "RestaurantSiteAddress":"https://sushi-prince.com/"},
